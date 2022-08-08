@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "kyATWEOCn0KrE8dVTJEBkzbnTr/Q37aNWQhLEqtcCpbzU51LYJp5o5S7LELUEkXYtfSsUZdOSHVwsGMhMvHsfQ==",
+  "success": true,
+  "projectFilePath": "/home/jeff/Repos/Timer/Timer/Timer.csproj",
+  "expectedPackageFiles": [
+    "/home/jeff/.nuget/packages/consoletools/1.1.1/consoletools.1.1.1.nupkg.sha512",
+    "/home/jeff/.nuget/packages/consoletools.controls/1.1.0/consoletools.controls.1.1.0.nupkg.sha512",
+    "/home/jeff/.nuget/packages/consoletools.controls.menus/1.1.0/consoletools.controls.menus.1.1.0.nupkg.sha512",
+    "/home/jeff/.nuget/packages/consoletools.controls.spinners/1.1.0/consoletools.controls.spinners.1.1.0.nupkg.sha512",
+    "/home/jeff/.nuget/packages/consoletools.controls.tables/1.1.0/consoletools.controls.tables.1.1.0.nupkg.sha512",
+    "/home/jeff/.nuget/packages/consoletools.core/1.1.0/consoletools.core.1.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
